@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-kellyyan
 
 Running at: <https://jpa03-kellyyan.dokku-03.cs.ucsb.edu>
 
